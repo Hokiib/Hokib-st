@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Hokib-st
 - 👀 Developper for @nidev-fr
 - 🌱 Javascript
-- 🌐 Hokib-st#7117 | 🐦@Hokibst
+- ☕ Java
+- 🌐 Hokib-st#0444 | 🐦@Hokibst
